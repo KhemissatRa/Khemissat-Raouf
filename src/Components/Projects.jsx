@@ -39,7 +39,7 @@ export default function Projects() {
       stack: "React · Tailwind",
       image:"/portfl.png",
       year: "2026",
-      desc: "Elegant portfolio focus on performance and simplicity.",
+      desc: "Elegant portfolio focus on performance and simplicity."
    ,link:"https://khemissat-raouf.vercel.app/"
     },
   ];
