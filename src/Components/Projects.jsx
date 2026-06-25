@@ -17,10 +17,10 @@ export default function Projects() {
       title: "Restaurant Management (under development)",
       category: "MERN",
       stack: "React · Express · MongoDB",
-      year: "2024",
+      year: "2026",
       image:'/foodorder.png',
       
-      desc: "Reservation system and customer dashboard designed for modern hospitality businesses.",
+      desc: "Reservation system and customer dashboard designed for modern restaurants businesses.",
     },
        {
       id: "01",
@@ -38,8 +38,9 @@ export default function Projects() {
       category: "Frontend",
       stack: "React · Tailwind",
       image:"/portfl.png",
-      year: "2024",
-      desc: "Elegant portfolio focus performance and simplicity.",
+      year: "2026",
+      desc: "Elegant portfolio focus on performance and simplicity.",
+   ,link:"https://khemissat-raouf.vercel.app/"
     },
   ];
 
