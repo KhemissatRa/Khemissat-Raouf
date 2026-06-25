@@ -124,7 +124,7 @@ export default function Experience() {
               style={{
                 gridTemplateColumns: '20px 1fr',
                 paddingBottom:
-                  i < experiences.length + 1 ? '32px' : '0',
+                  i < experiences.length - 1 ? '32px' : '0',
               }}
             >
               {/* Dot + line */}
