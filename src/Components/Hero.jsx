@@ -43,7 +43,7 @@ export default function Hero() {
         <div>
           <div className="flex items-center gap-3 mb-5">
             <div className="w-7 h-px bg-[#c9a84c]" />
-            <span className="text-[11px] text-[#c9a84c] tracking-[0.2em] uppercase font-medium">Hello, I'm RK</span>
+            <span className="text-[11px] text-[#c9a84c] tracking-[0.2em] uppercase font-medium">Hello, I'm RAOUF KHEMISSAT</span>
           </div>
 
           <h1 className="font-serif text-5xl font-medium text-[#f0ece4] leading-[1.08] tracking-tight mb-3">
